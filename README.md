@@ -30,3 +30,5 @@ decode = input().upper()
 table = ''.maketrans(upperLetter, keys)
 print(decode.translate(table))
 ```
+# 實作
+![image](https://github.com/dtanlley1209/report2/blob/main/1.png)
